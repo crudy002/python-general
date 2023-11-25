@@ -1,0 +1,22 @@
+The game to create is Connect Four
+
+Connect fouri s a game in which 2 plays (red, yellow) compete on a 6x6 grid, by 
+taking turns dropping circular tokens into the slots.
+
+Objective: Make four tokens of the your color in a row in one of the four winning orientations
+    1) Vertical
+    2) Horizontal
+    3) Diagonal
+    4) Anti-diagonal
+
+Clarifying Questions:
+- What are the rules of connect four?
+    - How do you win?
+        - Variable amount in a row: connect n
+- What are the dimensions of the grid? 
+    - Variable width and length
+- How many players are there?
+    -2
+
+The game shall keep track of the score
+The game shall allow for human vs human
